@@ -1,0 +1,34 @@
+
+h1{
+    color: beige;
+    background-color: rgb(85, 72, 72);
+    border: 5px yellow outset;
+    border-radius: 25px;
+    font-size: 50px;
+    text-align: center;
+    
+}
+input{
+    border-radius: 10px;
+    border: 4px rgb(206, 206, 219) inset;
+    color: aqua;
+    background-color: rgb(61, 48, 48);
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 100PX;
+}
+div{
+    margin-left: 100px;
+    color: aliceblue;
+    font-size: 30px;
+}
+#div{
+    background-color: rgb(45, 41, 53);
+    width: 800px;
+    height: 800px;
+    /* margin-right: 200px; */
+    border: 8px outset rgb(124, 39, 39);
+    border-radius: 40px;
+    overflow: scroll;
+}
